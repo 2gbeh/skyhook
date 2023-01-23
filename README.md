@@ -1,3 +1,3 @@
 # skyhook
 
-Email Marketing Service (Gmail Clone)
+Email Marketing Service (gmail-clone)
