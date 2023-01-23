@@ -1,2 +1,3 @@
 # skyhook
-Gmail Clone with Angular 13
+
+Email Marketing Service (Gmail Clone)
